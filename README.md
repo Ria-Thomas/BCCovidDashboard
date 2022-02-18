@@ -1,4 +1,6 @@
 ### BC Covid Dashboard
 
 This contains a basic Tableau Public Dashboard to show simple stats on Covid cases in BC, Canada. 
-Link to the dashboard - https://public.tableau.com/app/profile/ria.thomas7951/viz/BCCovid-19Dashboard/BCCovidCases 
+You can access the dashboard [here](https://public.tableau.com/app/profile/ria.thomas7951/viz/BCCovid19Dashboard/BCCovidDashboard)
+
+![Dashboard snapshot](images/dash.png)
